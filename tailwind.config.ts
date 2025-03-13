@@ -58,7 +58,7 @@ export default {
           "5": "hsl(var(--chart-5))",
         },
         myTheme: {
-          red: "#bf1932",
+          yellow: "#F4F40F",
         },
       },
       borderRadius: {
